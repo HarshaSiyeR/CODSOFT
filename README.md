@@ -14,12 +14,9 @@ A password generator is a useful tool that generates strong and random passwords
 
 ### TASK 4 : Rock-Paper-Scissors Game
 
-**User Input**: 
-Prompt the user to choose rock, paper, or scissors.
-**Computer Selection**: 
-Generate a random choice (rock, paper, or scissors) for the computer.
-Game Logic:
-Determine the winner based on the user's choice and the computer's choice.
+**User Input**: Prompt the user to choose rock, paper, or scissors.
+**Computer Selection**: Generate a random choice (rock, paper, or scissors) for the computer.
+**Game Logic**:Determine the winner based on the user's choice and the computer's choice.
 Rock beats scissors, scissors beat paper, and paper beats rock.
 
 **Display Result**:Show the user's choice and the computer's choice.
